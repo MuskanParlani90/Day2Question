@@ -1,8 +1,0 @@
-Sample Test:
-Starting value:1
-Ending value:10
-Output: 2,3,5,7
-
-2)Starting value:1
-Ending value:3
-Output: 2,3
