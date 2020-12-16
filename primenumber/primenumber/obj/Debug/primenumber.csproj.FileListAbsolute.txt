@@ -1,0 +1,7 @@
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\bin\Debug\primenumber.exe.config
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\bin\Debug\primenumber.exe
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\bin\Debug\primenumber.pdb
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\obj\Debug\primenumber.csprojAssemblyReference.cache
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\obj\Debug\primenumber.csproj.CoreCompileInputs.cache
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\obj\Debug\primenumber.exe
+D:\LTI\DevOps\Day 2 Assignment\primenumber\primenumber\obj\Debug\primenumber.pdb
