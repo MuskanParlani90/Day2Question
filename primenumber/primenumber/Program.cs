@@ -33,6 +33,8 @@ namespace primenumber
                 }
             }
             Console.WriteLine();
+             Console.WriteLine("Kirti Pawar");
+
         }
     }
 }
